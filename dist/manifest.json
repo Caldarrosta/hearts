@@ -1,6 +1,6 @@
 {
-  "name": "heart",
-  "short_name": "heart",
+  "name": "Caldarrosta",
+  "short_name": "Caldarrosta",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
@@ -19,4 +19,3 @@
     }
   ]
 }
-
