@@ -1,5 +1,5 @@
 {
-  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "text": "Ciao Viola, Tanti auguri di buon compleanno, questo è un piccolo pensiero per te, uno spazio dove poter ricordare le nostre fantastiche avventure (per piccoli)",
   "images": [
      { "file": "images/foto1.JPG", "caption": "Il nostro primo viaggio" },
     { "file": "images/foto2.JPG", "caption": "Con le nostre migliori amiche" },
@@ -17,4 +17,5 @@
     { "file": "images/foto14.JPG", "caption": "✨" }
   ]
 }
+
 
