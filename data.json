@@ -13,8 +13,10 @@
     { "file": "images/foto10.jpg", "caption": "zzzzzzzzzzzzzzzzzz (dovevo)" },
     { "file": "images/foto11.jpg", "caption": "A Naboliiii" },
     { "file": "images/foto12.jpg", "caption": "Noi al Mayerrr" },
+    { "file": "images/video1.mp4", "caption": "Momento speciale", "type": "video" },
     { "file": "images/foto13.jpg", "caption": "Noi al Lagoooo" },
     { "file": "images/foto14.jpg", "caption": "✨" }
   ]
 }
+
 
